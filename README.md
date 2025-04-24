@@ -17,17 +17,12 @@ Pengguna cukup masuk ke website, memilih topik atau membiarkan AI yang menentuka
 ⚙️ Fitur
 Untuk mencapai tujuan tersebut kami menyediakan fitur-fitur yang tersedia pada website SISOB, yaitu:
 
-👑 Fitur Admin
-
-🔐 Login
-
-🧠 Create Quiz
-
-📢 Open Quiz
-
-🌀 Generate Question
-
-✏️ Edit Question
+No | Fitur | Deskripsi
+1 | 🔐 Login | Masuk ke dalam dashboard admin
+2 | 🧠 Create Quiz | Membuat kuis baru
+3 | 📢 Open Quiz | Mengaktifkan kuis untuk dikerjakan user
+4 | 🌀 Generate Question | Menghasilkan soal menggunakan Gemini 1.5
+5 | ✏️ Edit Question | Mengedit soal yang telah dibuat
 
 🙋‍♂️ Fitur User
 
