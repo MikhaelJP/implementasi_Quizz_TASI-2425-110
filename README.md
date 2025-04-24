@@ -1,4 +1,5 @@
-🎯 TASI-2425-110 Website Kuis
+###🎯 TASI-2425-110 Website Kuis
+
 📌 Deskripsi Singkat
 Website ini adalah platform kuis interaktif yang dirancang untuk memberikan pengalaman belajar yang seru, fleksibel, dan cerdas. Dengan dukungan teknologi AI terbaru dari Gemini 1.5, website ini mampu secara otomatis menghasilkan soal-soal kuis yang bervariasi dan menantang, sehingga pengguna tidak hanya mengasah pengetahuan, tapi juga terbantu dalam proses belajar yang lebih mendalam.
 
