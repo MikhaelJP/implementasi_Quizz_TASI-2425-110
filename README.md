@@ -17,82 +17,88 @@ Pengguna cukup masuk ke website, memilih topik atau membiarkan AI yang menentuka
 ⚙️ Fitur
 Untuk mencapai tujuan tersebut kami menyediakan fitur-fitur yang tersedia pada website SISOB, yaitu:
 
-No | Fitur | Deskripsi
-1 | 🔐 Login | Masuk ke dalam dashboard admin
-2 | 🧠 Create Quiz | Membuat kuis baru
-3 | 📢 Open Quiz | Mengaktifkan kuis untuk dikerjakan user
-4 | 🌀 Generate Question | Menghasilkan soal menggunakan Gemini 1.5
-5 | ✏️ Edit Question | Mengedit soal yang telah dibuat
+👑 Fitur Admin
+1. 🔐 Login | Masuk ke dalam dashboard admin
+2. 🧠 Create Quiz | Membuat kuis baru
+3. 📢 Open Quiz | Mengaktifkan kuis untuk dikerjakan user
+4. 🌀 Generate Question | Menghasilkan soal menggunakan Gemini 1.5
+5. ✏️ Edit Question | Mengedit soal yang telah dibuat
+
+
 
 🙋‍♂️ Fitur User
 
-📝 Register
+1. 📝 Register
+2. 🔐 Login
+3. 🚀 Start Quiz
+4. 🏆 Leaderboard
+5. 📄 See Question
 
-🔐 Login
 
-🚀 Start Quiz
-
-🏆 Leaderboard
-
-📄 See Question
 
 🛠️ Installation Guide
 
 Langkah-langkah instalasi yang dapat dilakukan untuk menjalankan Sistem Informasi Stok Obat Dinas Kesehatan Balige (SISOB) di perangkat Anda yaitu:
 
-🌐 Pastikan perangkat terhubung ke internet.
+1. 🌐 Pastikan perangkat terhubung ke internet.
 
-📁 Clone repositori Implementasi_Quizz_TASI_2425_110 dari GitHub dan hubungkan ke direktori htdocs.
+2. 📁 Clone repositori Implementasi_Quizz_TASI_2425_110 dari GitHub dan hubungkan ke direktori htdocs.
 
-🗂️ Sediakan database kosong pada Firebase.
+3. 🗂️ Sediakan database kosong pada Firebase.
 
-⚙️ Ubah file .env.
+4. ⚙️ Ubah file .env.
 
-🖥️ Buka terminal pada direktori Implementasi_Quizz_TASI_2425_110.
+5. 🖥️ Buka terminal pada direktori Implementasi_Quizz_TASI_2425_110.
 
-📦 Instal semua dependensi Laravel menggunakan perintah composer install.
+6. 📦 Instal semua dependensi Laravel menggunakan perintah composer install.
 
-🔑 Jalankan php artisan key:generate untuk menghasilkan kunci aplikasi.
+7. 🔑 Jalankan php artisan key:generate untuk menghasilkan kunci aplikasi.
 
-🧱 Gunakan php artisan migrate untuk membuat skema basis data.
+8. 🧱 Gunakan php artisan migrate untuk membuat skema basis data.
 
-🌱 (Opsional) Jalankan php artisan db:seed untuk memasukkan data awal.
+9. 🌱 (Opsional) Jalankan php artisan db:seed untuk memasukkan data awal.
 
-🚀 Jalankan server menggunakan php artisan serve.
+10. 🚀 Jalankan server menggunakan php artisan serve.
 
-🌍 Akses melalui browser di http://localhost:8000 atau alamat yang ditampilkan di terminal.
+11. 🌍 Akses melalui browser di http://localhost:8000 atau alamat yang ditampilkan di terminal.
+
+
 
 💻 Minimum Hardware Requirements
 
 Perangkat keras yang disarankan untuk menjalankan sistem ini:
 
-🧠 Prosesor: Intel Core i5-10300H
+1. 🧠 Prosesor: Intel Core i5-10300H
 
-🖥️ Sistem Operasi: Windows 10 Home / Windows 11 Home
+2. 🖥️ Sistem Operasi: Windows 10 Home / Windows 11 Home
 
-🧵 Memori: 8 GB DDR4, 2933Hz
+3. 🧵 Memori: 8 GB DDR4, 2933Hz
 
-💾 Penyimpanan: 512 GB SSD M.2 PCIe NVMe
+4. 💾 Penyimpanan: 512 GB SSD M.2 PCIe NVMe
+
+
 
 🧰 Minimum Software Requirements
 
 Perangkat lunak yang dibutuhkan dalam pengembangan dan penggunaan sistem ini:
 
-🌐 Web Server: Apache
+1. 🌐 Web Server: Apache
 
-📝 Text Editor: Visual Studio Code
+2. 📝 Text Editor: Visual Studio Code
 
-📄 Microsoft Office: Microsoft Word 2010
+3. 📄 Microsoft Office: Microsoft Word 2010
 
-🗃️ Database: MariaDB, Firebase
+4. 🗃️ Database: MariaDB, Firebase
 
-🎨 Image Editor: Figma, Canva
+5. 🎨 Image Editor: Figma, Canva
 
-🧭 Diagram Editor: Bizagi Modeler, Star UML
+6. 🧭 Diagram Editor: Bizagi Modeler, Star UML
 
-🧱 Framework: Laravel
+7. 🧱 Framework: Laravel
 
-🔍 Testing Application: Postman
+8. 🔍 Testing Application: Postman
+
+
 
 👥 Contributors
 
