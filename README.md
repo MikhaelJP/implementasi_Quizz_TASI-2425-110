@@ -31,24 +31,6 @@ Untuk mencapai tujuan tersebut kami menyediakan fitur fitur yang akan tersedia p
   - Leaderboard
   - See Question 
 
-- Fitur Puskesmas
-  - Login
-  - About Us
-  - Data Obat: Memungkinkan Puskesmas untuk memasukkan data data obat yang dimiliki gudang mereka ke dalam sistem.
-  - Request Obat: Memungkinkan Puskesmas untuk melakukan permintaan obat ke PSDK untuk diadakan sesuai dengan kebutuhan.
-  - Pencarian Obat: Puskesmas dapat mencari nama obat obat menggunakan fitur ini yang dapat kita lihat dalam sistem.
-
-## Desain Arsitektur
-
-Desain arsitektur yang terdapat pada sistem ini dapat dilihat pada ERD berikut:
-
-## Database Design
-
-Basisdata pada sistem ini terdiri dari beberapa tabel seperti:
-**CDM**
-
-**PDM**
-
 
 ## Installation Guide
 
