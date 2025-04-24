@@ -1,4 +1,4 @@
-###🎯 TASI-2425-110 Website Kuis
+🎯 TASI-2425-110 Website Kuis
 
 📌 Deskripsi Singkat
 Website ini adalah platform kuis interaktif yang dirancang untuk memberikan pengalaman belajar yang seru, fleksibel, dan cerdas. Dengan dukungan teknologi AI terbaru dari Gemini 1.5, website ini mampu secara otomatis menghasilkan soal-soal kuis yang bervariasi dan menantang, sehingga pengguna tidak hanya mengasah pengetahuan, tapi juga terbantu dalam proses belajar yang lebih mendalam.
@@ -17,6 +17,7 @@ Pengguna cukup masuk ke website, memilih topik atau membiarkan AI yang menentuka
 Untuk mencapai tujuan tersebut kami menyediakan fitur-fitur yang tersedia pada website SISOB, yaitu:
 
 👑 Fitur Admin
+
 🔐 Login
 
 🧠 Create Quiz
@@ -28,6 +29,7 @@ Untuk mencapai tujuan tersebut kami menyediakan fitur-fitur yang tersedia pada w
 ✏️ Edit Question
 
 🙋‍♂️ Fitur User
+
 📝 Register
 
 🔐 Login
@@ -39,6 +41,7 @@ Untuk mencapai tujuan tersebut kami menyediakan fitur-fitur yang tersedia pada w
 📄 See Question
 
 🛠️ Installation Guide
+
 Langkah-langkah instalasi yang dapat dilakukan untuk menjalankan Sistem Informasi Stok Obat Dinas Kesehatan Balige (SISOB) di perangkat Anda yaitu:
 
 🌐 Pastikan perangkat terhubung ke internet.
@@ -64,6 +67,7 @@ Langkah-langkah instalasi yang dapat dilakukan untuk menjalankan Sistem Informas
 🌍 Akses melalui browser di http://localhost:8000 atau alamat yang ditampilkan di terminal.
 
 💻 Minimum Hardware Requirements
+
 Perangkat keras yang disarankan untuk menjalankan sistem ini:
 
 🧠 Prosesor: Intel Core i5-10300H
@@ -75,6 +79,7 @@ Perangkat keras yang disarankan untuk menjalankan sistem ini:
 💾 Penyimpanan: 512 GB SSD M.2 PCIe NVMe
 
 🧰 Minimum Software Requirements
+
 Perangkat lunak yang dibutuhkan dalam pengembangan dan penggunaan sistem ini:
 
 🌐 Web Server: Apache
@@ -94,6 +99,7 @@ Perangkat lunak yang dibutuhkan dalam pengembangan dan penggunaan sistem ini:
 🔍 Testing Application: Postman
 
 👥 Contributors
+
 👨‍💻 12S21009 - Mikhael Janugrah Pakpahan @MikhaelJP
 
 👨‍💻 12S21002 - Marudut Budiman Tampubolon @MarudutTMP
