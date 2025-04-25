@@ -10,7 +10,7 @@ Dengan pendekatan ini, pengguna tidak hanya mengasah pengetahuan, tapi juga bela
 **Progressive Learning** (Pembelajaran Bertahap):  
 Sistem quiz ini didesain untuk menyesuaikan tingkat kesulitan soal secara bertahap. Pengguna akan mulai dari soal-soal easy, kemudian medium dan kemudian perlahan masuk ke soal yang lebih menantang (hard). Ini mendorong proses belajar yang terstruktur dan bertahap, membantu pengguna membangun pemahaman secara menyeluruh.
 
-**Serious Games**:
+**Serious Games**:  
 Website ini tidak hanya menghadirkan quiz sebagai ujian, tapi juga sebagai media pembelajaran yang menyenangkan. Dengan pendekatan seperti leaderboard, tantangan soal, dan feedback real-time, pengguna merasa seperti bermain sambil belajar. Ini membuat mereka lebih termotivasi, tanpa tekanan seperti ujian formal.
 
 Ada tiga jenis soal yang tersedia, yaitu:
