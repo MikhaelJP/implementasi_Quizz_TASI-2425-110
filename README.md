@@ -2,20 +2,25 @@
 
 📌 Deskripsi Singkat
 
-Website ini adalah platform kuis interaktif yang dirancang untuk memberikan pengalaman belajar yang seru, fleksibel, dan cerdas. Dengan dukungan teknologi AI terbaru dari Gemini 1.5, website ini mampu secara otomatis menghasilkan soal-soal kuis yang bervariasi dan menantang, sehingga pengguna tidak hanya mengasah pengetahuan, tapi juga terbantu dalam proses belajar yang lebih mendalam.
+Website ini adalah platform quiz online yang dirancang untuk memberikan pengalaman belajar yang seru, fleksibel, dan cerdas. Dengan dukungan teknologi AI terbaru dari Gemini 1.5, website ini mampu secara otomatis menghasilkan soal-soal quiz yang bervariasi dan menantang, sehingga pengguna tidak hanya mengasah pengetahuan, tapi juga terbantu dalam proses belajar yang lebih mendalam.
 
 Ada tiga jenis soal yang tersedia, yaitu:
 
 ✅ Multiple choice (pilihan ganda): Cocok untuk menguji pemahaman dasar dengan berbagai pilihan jawaban.
 
-✍️ Essay (uraian): Membantu pengguna mengembangkan pemikiran kritis dan kemampuan menjelaskan secara mendalam.
+✍️ Short Answer (isian): Membantu pengguna mengembangkan pemikiran kritis dan kemampuan menjelaskan secara mendalam.
 
 ❓ True or false (benar atau salah): Ideal untuk pengujian cepat terhadap pemahaman konsep dasar.
 
 Pengguna cukup masuk ke website, memilih topik atau membiarkan AI yang menentukan, lalu kuis akan secara otomatis dibuat dan siap dikerjakan. Setelah menyelesaikan kuis, pengguna bisa langsung melihat hasilnya—termasuk penilaian otomatis untuk soal pilihan ganda dan true or false, serta masukan cerdas untuk jawaban essay.
 
+👥 Peran Pengguna dalam Platform
+**Admin** bertugas mengelola konten quiz. Mereka dapat mengatur tipe soal, menentukan total soal yang akan ditampilkan serta dapat mengedit soal jika tidak sesuai dengan yang diharapkan dan dihasilkan oleh AI Gemini yang dihasilkan secara otomatis, Admin juga dapat menentukan nama quiz, code quiz, dan mengatur waktu mulai - selesai pengerjaan quiz ketika ingin membuka quiz untuk dikerjakan. Dengan fitur ini, admin tidak perlu membuat semua soal secara manual, sehingga prosesnya lebih cepat dan mudah.
+
+**User (Pengguna)** adalah pelajar atau siapa pun yang ingin belajar melalui quiz. Mereka dapat mendaftar, login, memasukkan code quiz yang sudah diberikan oleh admin, dan langsung mengerjakannya. Pada saat mengerjakan quiz sistem akan memberikan feedback secara real - time apabila pengguna memberikan jawaban yang salah, Setelah quiz selesai, hasil langsung ditampilkan melalui leaderboard.
+
 ⚙️ Fitur
-Untuk mencapai tujuan tersebut kami menyediakan fitur-fitur yang tersedia pada website SISOB, yaitu:
+Untuk mencapai tujuan tersebut kami menyediakan fitur-fitur yang tersedia pada website Quizz, yaitu:
 
 👑 Fitur Admin
 1. 🔐 Login | Masuk ke dalam dashboard admin
