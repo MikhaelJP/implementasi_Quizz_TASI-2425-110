@@ -7,7 +7,7 @@ Tidak hanya sekadar menjawab soal, pengguna juga mendapatkan feedback secara rea
 Dengan pendekatan ini, pengguna tidak hanya mengasah pengetahuan, tapi juga belajar secara bertahap dan lebih mendalam. Website ini juga mendukung progressive learning di mana tingkat kesulitan soal disesuaikan secara bertahap—dan menerapkan prinsip serious games, yang membuat belajar terasa seperti bermain namun tetap bermakna dan fokus pada capaian pembelajaran.
 
 🌱 Keunggulan: Progressive Learning dan Serious Games  
-**Progressive Learning** (Pembelajaran Bertahap):
+**Progressive Learning** (Pembelajaran Bertahap):  
 Sistem quiz ini didesain untuk menyesuaikan tingkat kesulitan soal secara bertahap. Pengguna akan mulai dari soal-soal easy, kemudian medium dan kemudian perlahan masuk ke soal yang lebih menantang (hard). Ini mendorong proses belajar yang terstruktur dan bertahap, membantu pengguna membangun pemahaman secara menyeluruh.
 
 **Serious Games**:
